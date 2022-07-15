@@ -5,3 +5,5 @@ draft: true
 thumbnail: /images/uploads/space.jpg
 ---
 Body
+
+![](/images/uploads/space.jpg)
